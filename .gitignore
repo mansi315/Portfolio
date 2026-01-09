@@ -1,0 +1,23 @@
+# Ignore all raw data files
+*.csv
+*.tsv
+*.txt
+*.json
+*.parquet
+*.zip
+*.gz
+
+# Ignore data folders
+data/
+raw_data/
+datasets/
+
+# Ignore BI extracts
+*.hyper
+*.twb
+*.twbx
+*.pbix
+
+# Ignore system files
+.DS_Store
+.ipynb_checkpoints/
