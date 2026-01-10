@@ -1,0 +1,1 @@
+Tableau dashboard screenshots for the Instacart Market Basket Analysis project.
